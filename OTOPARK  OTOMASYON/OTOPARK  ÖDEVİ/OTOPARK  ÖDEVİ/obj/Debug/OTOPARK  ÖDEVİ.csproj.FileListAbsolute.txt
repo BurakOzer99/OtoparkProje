@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\Sabis Subu\OTOPARK  ÖDEVİ\OTOPARK  ÖDEVİ\bin\Debug\OTOPARK  ÖDEVİ.exe.config
+C:\Users\PC\Desktop\Sabis Subu\OTOPARK  ÖDEVİ\OTOPARK  ÖDEVİ\bin\Debug\OTOPARK  ÖDEVİ.exe
+C:\Users\PC\Desktop\Sabis Subu\OTOPARK  ÖDEVİ\OTOPARK  ÖDEVİ\bin\Debug\OTOPARK  ÖDEVİ.pdb
+C:\Users\PC\Desktop\Sabis Subu\OTOPARK  ÖDEVİ\OTOPARK  ÖDEVİ\obj\Debug\OTOPARK  ÖDEVİ.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Sabis Subu\OTOPARK  ÖDEVİ\OTOPARK  ÖDEVİ\obj\Debug\OTOPARK__ÖDEVİ.FrmAnasayfa.resources
+C:\Users\PC\Desktop\Sabis Subu\OTOPARK  ÖDEVİ\OTOPARK  ÖDEVİ\obj\Debug\OTOPARK__ÖDEVİ.frmAraçOtoparkYerleri.resources
+C:\Users\PC\Desktop\Sabis Subu\OTOPARK  ÖDEVİ\OTOPARK  ÖDEVİ\obj\Debug\OTOPARK__ÖDEVİ.Properties.Resources.resources
+C:\Users\PC\Desktop\Sabis Subu\OTOPARK  ÖDEVİ\OTOPARK  ÖDEVİ\obj\Debug\OTOPARK  ÖDEVİ.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Sabis Subu\OTOPARK  ÖDEVİ\OTOPARK  ÖDEVİ\obj\Debug\OTOPARK  ÖDEVİ.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Sabis Subu\OTOPARK  ÖDEVİ\OTOPARK  ÖDEVİ\obj\Debug\OTOPARK  ÖDEVİ.exe
+C:\Users\PC\Desktop\Sabis Subu\OTOPARK  ÖDEVİ\OTOPARK  ÖDEVİ\obj\Debug\OTOPARK  ÖDEVİ.pdb
+C:\Users\PC\Desktop\Sabis Subu\OTOPARK  ÖDEVİ\OTOPARK  ÖDEVİ\obj\Debug\OTOPARK__ÖDEVİ.frmAraçOtoparkKaydı.resources
+C:\Users\PC\Desktop\Sabis Subu\OTOPARK  ÖDEVİ\OTOPARK  ÖDEVİ\obj\Debug\OTOPARK__ÖDEVİ.frmMarka.resources
+C:\Users\PC\Desktop\Sabis Subu\OTOPARK  ÖDEVİ\OTOPARK  ÖDEVİ\obj\Debug\OTOPARK__ÖDEVİ.frmSeri.resources
+C:\Users\PC\Desktop\Sabis Subu\OTOPARK  ÖDEVİ\OTOPARK  ÖDEVİ\obj\Debug\OTOPARK__ÖDEVİ.frmAraçOtoparkÇıkışı.resources
+C:\Users\PC\Desktop\Sabis Subu\OTOPARK  ÖDEVİ\OTOPARK  ÖDEVİ\obj\Debug\OTOPARK__ÖDEVİ.frmSatış.resources
